@@ -10,14 +10,14 @@ slides:
   theme: black
   highlight_style: dracula
 ---
-Catechismo di San Pio X
+# Catechismo di San Pio X
 
 [Fraternità](https://fsspx.it/it) | [Edizioni Piane](https://edizionipiane.it/)
 
 
 - - -
 
-## Features
+## PRIME PREGHIERE E FORMOLE DA SAPERSI A MEMORIA 
 
 * Efficiently write slides in Markdown
 * 3-in-1: Create, Present, and Publish your slides
