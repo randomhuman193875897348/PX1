@@ -19,24 +19,27 @@ slides:
 
 ## PRIME PREGHIERE E FORMOLE DA SAPERSI A MEMORIA 
 
-* Efficiently write slides in Markdown
-* 3-in-1: Create, Present, and Publish your slides
-* Supports speaker notes
-* Mobile friendly slides
+-﻿ - -
+
+### SEGNO DELLA CROCE
+In nomine Patris et Filii et Spiritus Sancti. Amen.  
+In nome del Padre, e del Figlio e dello Santo Santo. Così sia. 
 
 - - -
+## CREDO o Simbolo apostolico
+Credo in Deum Patrem omnipoténtem, Creatórem caeli et terrae ; et in Iesum Christum, Filium eius
+únicum, Dóminum nostrum, qui concéptus est de Spiritu Sancto, natus ex Maria Vírgine, passus sub
+Póntio Piláto, crucifixus, mórtuus et sepúltus: descéndit ad ínferos: tértia die resurréxit a mórtuis:
+ascéndit ad caelos, sedet ad déxteram Dei Patris omnipoténtis: inde ventúrus est iudicáre vivos et
+mórtùos. Credo in Spiritum Sanctum, sanctam Ecclésiam cathólicam, sanctórum, communiónem,
+remissiónem peccatórum, carnis resurrectiónem, vitam aetérnam. Amen.
+Io credo in Dio Padre onnipotente, Creatore del cielo e della terra; e in Gesù Cristo, suo unico
+Figliuolo, Nostro Signore, il quale fu concepito di Spirito Santo, nacque da Maria Vergine, patì
+sotto Ponzio Pilato, fu crocifisso, morto e seppellito, discese all'inferno, il terzo giorno risuscitò da
+morte, salì al cielo, siede alla destra di Dio Padre onnipotente, di là ha da venire a giudicare í vivi
+e vi morti. Credo nello Spirito Santo, la santa Chiesa cattolica, la comunione dei santi, la
+remissione dei peccati, la risurrezione della carne, la vita eterna. Così sia. 
 
-## Controls
-
-* Next: `Right Arrow` or `Space`
-* Previous: `Left Arrow`
-* Start: `Home`
-* Finish: `End`
-* Overview: `Esc`
-* Speaker notes: `S`
-* Fullscreen: `F`
-* Zoom: `Alt + Click`
-* [PDF Export](https://revealjs.com/pdf-export/)
 
 - - -
 
